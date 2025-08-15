@@ -1,0 +1,78 @@
+﻿└── PlaytoChatApp/
+│   └── .expo/
+│   │   └── types/
+│   │   │   └── router.d.ts
+│   │   └── web/
+│   │   │   └── cache/
+│   │   │   │   └── production/
+│   │   │   │   │   └── images/
+│   │   │   │   │   │   └── favicon/
+│   │   │   │   │   │   │   └── favicon-24272cdaeff82cc5facdaccd982a6f05b60c4504704bbf94c19a6388659880bb-contain-transparent/
+│   │   │   │   │   │   │   │   └── favicon-48.png
+│   │   └── devices.json
+│   │   └── README.md
+│   └── .vscode/
+│   │   └── settings.json
+│   └── app/
+│   │   └── (tabs)/
+│   │   │   └── explore.tsx
+│   │   │   └── index.tsx
+│   │   │   └── _layout.tsx
+│   │   └── +not-found.tsx
+│   │   └── _layout.tsx
+│   └── assets/
+│   │   └── fonts/
+│   │   │   └── SpaceMono-Regular.ttf
+│   │   └── images/
+│   │   │   └── adaptive-icon.png
+│   │   │   └── favicon.png
+│   │   │   └── icon.png
+│   │   │   └── partial-react-logo.png
+│   │   │   └── react-logo.png
+│   │   │   └── react-logo@2x.png
+│   │   │   └── react-logo@3x.png
+│   │   │   └── splash-icon.png
+│   └── components/
+│   │   └── ui/
+│   │   │   └── IconSymbol.ios.tsx
+│   │   │   └── IconSymbol.tsx
+│   │   │   └── TabBarBackground.ios.tsx
+│   │   │   └── TabBarBackground.tsx
+│   │   └── Collapsible.tsx
+│   │   └── ExternalLink.tsx
+│   │   └── HapticTab.tsx
+│   │   └── HelloWave.tsx
+│   │   └── ParallaxScrollView.tsx
+│   │   └── ThemedText.tsx
+│   │   └── ThemedView.tsx
+│   └── constants/
+│   │   └── Colors.ts
+│   └── hooks/
+│   │   └── useColorScheme.ts
+│   │   └── useColorScheme.web.ts
+│   │   └── useThemeColor.ts
+│   └── scripts/
+│   │   └── reset-project.js
+│   └── src/
+│   │   └── components/
+│   │   │   └── ChatItem.js
+│   │   │   └── HeaderButton.js
+│   │   │   └── MessageBubble.js
+│   │   └── constants/
+│   │   │   └── colors.js
+│   │   │   └── mockData.js
+│   │   └── navigation/
+│   │   │   └── AppNavigator.js
+│   │   └── screens/
+│   │   │   └── ChatListScreen.js
+│   │   │   └── ConversationScreen.js
+│   │   │   └── PlaceholderScreen.js
+│   └── .gitignore
+│   └── App.js
+│   └── app.json
+│   └── eslint.config.js
+│   └── expo-env.d.ts
+│   └── package-lock.json
+│   └── package.json
+│   └── README.md
+│   └── tsconfig.json
